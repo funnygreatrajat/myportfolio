@@ -1,0 +1,24 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background: url('header-bg.jpg') no-repeat center center/cover;
+}
+
+#about img {
+    max-width: 200px;
+}
+
+#portfolio .card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
